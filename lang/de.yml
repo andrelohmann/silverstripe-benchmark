@@ -1,0 +1,6 @@
+de:
+  Benchmark:
+    WRONGCREDENTIALS: 'Benchmark Zugangsdaten sind fehlerhaft'
+    BENCHMARKTESTMISSING: 'Klasse BenchmarkTest fehlt'
+    RUNSUCCESSTITLE: 'Benchmark Test erfolgreich abgeschlossen'
+    RUNSUCCESSCONTENT: 'Benchmark Test erfolgreich abgeschlossen'

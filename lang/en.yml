@@ -1,0 +1,6 @@
+en:
+  Benchmark:
+    WRONGCREDENTIALS: 'Benchmark credentials mismatch'
+    BENCHMARKTESTMISSING: 'Class BenchmarkTest is missing'
+    RUNSUCCESSTITLE: 'Benchmark Test succeeded'
+    RUNSUCCESSCONTENT: 'Benchmark Test succeeded'

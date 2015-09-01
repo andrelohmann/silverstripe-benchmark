@@ -5,6 +5,10 @@
  * Andre Lohmann (Nickname: andrelohmann)
   <lohmann dot andre at googlemail dot com>
 
+## Requirements
+
+Silverstripe 3.2.x
+
 ## Introduction
 
 Benchmarking Framework for Silverstripe Application testing under high load circumstances
